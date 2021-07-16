@@ -1,4 +1,4 @@
-# authentication_demo
+# Firebase Authentication - SignIn And SignUp
 
 A new Flutter project.
 
